@@ -4,7 +4,7 @@
     Author Email    : gabyperezmota@icloud.com
     Template Name   : Site de rencontre
     
-    
+    Edited by Irvin
     *****************************************
     
 
@@ -254,6 +254,8 @@ h5, h6          { font-weight: bolder }
 
 
 /*  Main  */
+
+
 .main{
     width: 100%;
     height: 100%;
@@ -281,17 +283,20 @@ h5, h6          { font-weight: bolder }
 
 /*  Home/portfolio  */
 .main .work{
-    display: block;
+    display: block; 
     width: 20.33333333333333%;
     height: auto;
     float: left;
     position: relative;
     overflow: hidden;
+    
+    
 }
 
 .main .work .media{
     width: 100%;
     vertical-align: middle;
+    
 }
 
 .main .work .caption{
@@ -416,7 +421,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .content_header{
-    position: absolute;
+    position: absolute;s
     bottom: 0;
     margin: 0 auto;
     left: 50%;
